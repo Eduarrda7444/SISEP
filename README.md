@@ -21,6 +21,15 @@ Projeto para gerenciamento de processos seletivos e cadastro de alunos. Permite 
 - **Classificação de Alunos:**  
   Exibição da classificação dos alunos baseada em suas notas e nos parâmetros configurados.
 
+## Equipe
+
+- **Líder de Projeto** – Antonio Mateus (teuosx)
+- **Desenvolvedor Backend** – Eduarda Noronha (Eduarrda7444)
+- **Desenvolvedor Backend** – Murilo Alves
+- **Desenvolvedor Backend** – Emilly Vitoria (emillyfernb)
+- **Desenvolvedor Frontend e Designer** – Julio Cesar
+- **Desenvolvedor Frontend e Designer** – Daniel Eduardo
+
 ## Repositório
 
 Clone o repositório:
