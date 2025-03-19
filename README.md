@@ -25,4 +25,4 @@ Projeto para gerenciamento de processos seletivos e cadastro de alunos. Permite 
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sistema-classificacao-notas.git
+git clone https://github.com/Eduarrda7444/SISEP.git
